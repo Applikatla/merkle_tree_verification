@@ -23,7 +23,7 @@ This project verifies the inclusion of a specific transaction from a blockchain 
 
 1. Clone the Repository**
    ```bash
-   https://github.com/Applikatla/charter-21BKT0141.git
+   [https://github.com/Applikatla/charter-21BKT0141.git](https://github.com/Applikatla/merkle_tree_verification.git)
    
 2. Install Dependencies
     ```bash
